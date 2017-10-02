@@ -1,0 +1,8 @@
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\bin\Debug\mook_ParameterThread.exe.config
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\bin\Debug\mook_ParameterThread.exe
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\bin\Debug\mook_ParameterThread.pdb
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\obj\Debug\mook_ParameterThread.Form1.resources
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\obj\Debug\mook_ParameterThread.Properties.Resources.resources
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\obj\Debug\mook_ParameterThread.csproj.GenerateResource.Cache
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\obj\Debug\mook_ParameterThread.exe
+D:\workspace\cs\mook_ThreadLife\mook_ParameterThread\obj\Debug\mook_ParameterThread.pdb

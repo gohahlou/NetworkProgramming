@@ -1,0 +1,6 @@
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe.config
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.exe
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\bin\Debug\mook_ThreadLife.pdb
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.csprojResolveAssemblyReference.cache
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.exe
+D:\workspace\cs\mook_ThreadLife\mook_ThreadLife\obj\Debug\mook_ThreadLife.pdb

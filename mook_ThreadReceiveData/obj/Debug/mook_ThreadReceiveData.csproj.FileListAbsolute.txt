@@ -1,0 +1,12 @@
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_ThreadReceiveData.exe.config
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_ThreadReceiveData.exe
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_ThreadReceiveData.pdb
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_SendData.exe
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_SendData.pdb
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\bin\Debug\mook_SendData.exe.config
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.csprojResolveAssemblyReference.cache
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.Form1.resources
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.Properties.Resources.resources
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.csproj.GenerateResource.Cache
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.exe
+D:\workspace\cs\mook_ThreadLife\mook_ThreadReceiveData\obj\Debug\mook_ThreadReceiveData.pdb
