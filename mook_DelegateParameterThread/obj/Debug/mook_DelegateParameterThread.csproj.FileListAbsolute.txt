@@ -1,9 +1,0 @@
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\bin\Debug\mook_DelegateParameterThread.exe.config
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\bin\Debug\mook_DelegateParameterThread.exe
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\bin\Debug\mook_DelegateParameterThread.pdb
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.csprojResolveAssemblyReference.cache
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.Form1.resources
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.Properties.Resources.resources
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.csproj.GenerateResource.Cache
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.exe
-D:\workspace\cs\mook_ThreadLife\mook_DelegateParameterThread\obj\Debug\mook_DelegateParameterThread.pdb
